@@ -10,7 +10,7 @@
   font-size: 22px;
 }
 body {
-  background-color: aliceblue;
+  background-color: blue;
   display: flex;
   flex-direction: column;
 }
@@ -27,4 +27,5 @@ p{
 h3{
   border: solid;
   border-radius: 10px;
+  border-color: green;
 }
