@@ -6,5 +6,5 @@ For me this project is important because for me it's a step towards the Future �
 **Link to the Project:**
 https://damir-fullstack.github.io/functionalbutton/
 ---
-On this all, see you in the future! 👋
+**On this all, see you in the future! 👋**
 
