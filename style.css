@@ -24,3 +24,7 @@ div{
 p{
   font-size: 10px;
 }
+h3{
+  border: solid;
+  border-radius: 10px;
+}
