@@ -1,4 +1,4 @@
-#hi everyone! My name's **Damir**
+hi everyone! My name's **Damir**
 It's my second project. In this project I work with HTML, CSS and JavaScript. 
 I'm *Beginner Full Stack Developer*.👨‍🎓👨‍💻
 ---
