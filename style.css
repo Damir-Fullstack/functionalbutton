@@ -27,7 +27,7 @@ p{
 h3{
   border: solid;
   border-radius: 10px;
-  border-color: green;
-  padding: 100px;
-  border-width: 5px;
+  border-color: lightgreen;
+  padding: 250px;
+  border-width: 10px;
 }
